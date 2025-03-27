@@ -9,11 +9,11 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.pizza",
+            "url": "https://filmpertutti.be",
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tantifilm.be",
+            "url": "https://www.tantifilm.living",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
